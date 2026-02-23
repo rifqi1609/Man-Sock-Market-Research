@@ -1,7 +1,7 @@
 # Man Stock's Market Research at Tokopedia
 
 ## Repository Outline
-1. description.md - Project documentation
+1. README.md - Project overview
 2. notebook.ipynb - Python notebook for scraping and processing data
 3. scrapped_data.csv - Dataset obtained from scraping
 4. location_data.csv - Regency and Province in Java Island
