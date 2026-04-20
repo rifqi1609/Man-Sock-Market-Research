@@ -57,3 +57,4 @@ The ultimate goal is to attain a **0.01% market share** for Man Socks on Tokoped
 
 ## 🔗 Project Resources
 *   **Full Presentation:** [View on Canva](https://www.canva.com/design/DAG7ARz7Ixo/NDcDEiyeepmbr1kJivZ0Ew/edit?utm_content=DAG7ARz7Ixo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+*   **🎥 Video Presentation:** [Watch on Google Drive](https://drive.google.com/file/d/1b15UzGEdk2RZgqq33PY_hafUMjM7mNwm/view?usp=sharing)
